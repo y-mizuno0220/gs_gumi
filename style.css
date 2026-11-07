@@ -1,0 +1,33 @@
+body {
+  background-color: #fff0f5;
+  text-align: center;
+  padding: 20px;
+}
+
+#question {
+  display: none;
+}
+
+#result {
+  display: none;
+}
+
+.btn {
+  background-color: #ff6699;
+  color: white;
+  font-size: 18px;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.no {
+  background-color: #33aacc;
+}
+
+#result-text {
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+}
